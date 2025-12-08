@@ -26,9 +26,8 @@
 
 
 
-
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bhavya-Deep&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Bhavya-Deep&limit=5&theme=prussian&combine_all_yearly_contributions=true&v=1)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
